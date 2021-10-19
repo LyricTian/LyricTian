@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C++ & Python & Golang.
+- 🌱 I’m currently learning Rust & C++ & Python & Golang.
 - 😄 Pronouns: Stay hungry,stay foolish.
 
 
