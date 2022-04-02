@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Rust & C++ & Python & Golang.
+- 🌱 Tech stack: Go & Rust & C++ & Python & React & Vue.
 - 😄 Pronouns: Stay hungry,stay foolish.
 
 
